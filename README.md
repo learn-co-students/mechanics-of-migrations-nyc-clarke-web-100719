@@ -242,7 +242,7 @@ end
 ```
 
 Looks a little familiar? On the left we've given the data type we'd like to
-cast the column as, and on the right, we've given the name we'd like to give the
+cast the column as, and on the rAright, we've given the name we'd like to give the
 column. The only thing that we're missing is the primary key. Active Record
 will generate that column for us, and for each row added, a key will be
 auto-incremented.
